@@ -240,4 +240,4 @@ This repository serves as the official landing page for UMPlayer. The software i
 **Get the most recent version of UMPlayer today!**
 
 ---
-**Last updated:** 2026-09-12 23:41:33 UTC
+**Last updated:** 2026-09-13 02:55:40 UTC
